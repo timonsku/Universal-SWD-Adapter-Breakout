@@ -5,6 +5,7 @@ A simple PCB to adapt between common SWD connector variations.
 - 10pin 0.1" Cortex SWD connector (as found on ST-Link)
 - 10pin 0.05" Cortex SWD connector (as found on J-Link Mini and many targets) 
 - Named 0.1" pin header row for all 6 main signals
+- 6pin 0.1" TC2030-IDC footprint (compact "SWD-Adapter" only) 
 
 There are two variants, one compact version and an expanded version that add an RJ12 connector intended to be used with the TC2030-MCP-NL Tag Connect cables which are used on Microchip programmers and are often the cheapest and easiest to buy Tag Connect cable from distributors. This variant is also useful for having some solder on pads for hard wiring an SWD connection to a device.
 
